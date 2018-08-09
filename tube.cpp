@@ -1,3 +1,5 @@
+######### NEED TO FIX NUMBER VAR PROBLEM ##################
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>
